@@ -10,7 +10,12 @@ Introduction of activation function and explanation of how to use it.
 ソースコードはjupyter notebookにまとめています。<br>
 
 The main points are summarized in the presentation.<br>
-The source code is summarized in jupyter notebook.
+The source code is summarized in jupyter notebook.<br>
+
+[活性化関数(activation function)](https://docs.google.com/presentation/d/1RxUMw-tNCb-r76t0h98dXhPbZoGgINDB3xFL9iCoPrY/edit#slide=id.p)<br>
+[ReLU一族(ReLU clan)](https://docs.google.com/presentation/d/1Tcqy-vEOwOn1uaAKF3duoUUleyP0QUDG3TOQ3LrN2cY/edit#slide=id.p)<br>
+[ソースコード(Source code)](https://github.com/KozoNomamoto/activation-function/blob/main/activationfunction.py.ipynb)
+
 
 # Licence
 [MIT](https://github.com/KozoNomamoto/activation-function/blob/main/LICENSE)
