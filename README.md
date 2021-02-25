@@ -5,7 +5,7 @@
 活性化関数の紹介、使い方の説明。<br>
 Introduction of activation function and explanation of how to use it.
 
-# Otput
+# Output
 プレゼン用に要点だけまとめたのがあるのでご覧ください。<br>
 ソースコードはjupyter notebookにまとめています。<br>
 
